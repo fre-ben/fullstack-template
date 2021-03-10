@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://prettier.io/docs/en/install.html
 - https://eslint.org/docs/user-guide/getting-started
 - https://github.com/prettier/eslint-config-prettier
+- https://stylelint.io/user-guide/get-started
+- https://github.com/prettier/stylelint-config-prettier
