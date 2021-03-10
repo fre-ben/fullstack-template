@@ -41,3 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://github.com/prettier/eslint-config-prettier
 - https://stylelint.io/user-guide/get-started
 - https://github.com/prettier/stylelint-config-prettier
+- https://typicode.github.io/husky/
+- https://github.com/okonet/lint-staged
