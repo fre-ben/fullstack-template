@@ -45,3 +45,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://github.com/okonet/lint-staged
 - https://storybook.js.org/docs/react/get-started/install
 - https://www.npmjs.com/package/storybook-css-modules-preset
+- [Custom server for next](https://nextjs.org/docs/advanced-features/custom-server)
+- [TypeScript for custom server + nodemon](https://github.com/vercel/next.js/tree/canary/examples/custom-server-typescript)
