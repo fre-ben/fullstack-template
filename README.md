@@ -43,3 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://github.com/prettier/stylelint-config-prettier
 - https://typicode.github.io/husky/
 - https://github.com/okonet/lint-staged
+- https://storybook.js.org/docs/react/get-started/install
+- https://www.npmjs.com/package/storybook-css-modules-preset
