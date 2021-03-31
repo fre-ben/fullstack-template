@@ -13,6 +13,7 @@
     "typecheck": "tsc",
     "test": "npm run jest && npm run lint && npm run stylelint && npm run prettify && npm run typecheck",
     "jest": "jest",
+    "jest-watch": "jest --watch",
     "storybook": "start-storybook -s ./public -p 6006",
     "build-next": "next build",
     "build-storybook": "build-storybook -s public",
